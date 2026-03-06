@@ -4,7 +4,7 @@ import OptimizedImage from "../common/OptimizedImage";
 function ElevationCard({ item, enableImagePopup = false, showCgpa = false }) {
   const [isPreviewOpen, setIsPreviewOpen] = useState(false);
   const hasReferenceLink = Boolean(item.website);
-  const cgpaValue = typeof item.cgpa === "string" && item.cgpa.trim() ? item.cgpa.trim() : "Add CGPA";
+  const cgpaValue = typeof item.cgpa === "string" && item.cgpa.trim() ? item.cgpa.trim() : "Concluído";
   const imageHeightClassName = showCgpa ? "h-36" : "h-40";
   const accentToken = {
     borderHover: "hover:border-accent/45",
@@ -67,7 +67,7 @@ function ElevationCard({ item, enableImagePopup = false, showCgpa = false }) {
           <p className={`text-xs font-semibold uppercase tracking-[0.2em] ${accentToken.time}`}>{item.time}</p>
           {showCgpa ? (
             <p className="inline-flex rounded-full border border-white/25 bg-white/[0.04] px-3 py-1 text-[10px] font-semibold uppercase tracking-[0.14em] text-[#dce8fa]">
-              CGPA: {cgpaValue}
+              Status: {cgpaValue}
             </p>
           ) : null}
         </div>

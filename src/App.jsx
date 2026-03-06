@@ -4,6 +4,7 @@ import HeroSection from "./sections/HeroSection";
 import AboutSection from "./sections/AboutSection";
 import SkillsSection from "./sections/SkillsSection";
 import ProjectsSection from "./sections/ProjectsSection";
+import StudiesSection from "./sections/StudiesSection"; // 1. Importar a nova seção
 import EducationSection from "./sections/EducationSection";
 import ExperienceSection from "./sections/ExperienceSection";
 import CertificationsSection from "./sections/CertificationsSection";
@@ -24,8 +25,6 @@ function App() {
       <main id="main-content" className="space-y-16 pb-10 pt-6 sm:space-y-20">
         <HeroSection hero={data.hero} site={data.site} />
         
-        {/* Achievements Removido */}
-        
         <AboutSection aboutMeta={data.aboutMeta} contactSocials={data.contactSocials} />
         <SkillsSection skills={data.skills} />
         
@@ -36,7 +35,8 @@ function App() {
 
         <ProjectsSection projects={data.projects} />
 
-        {/* Blogs Removido */}
+        {/* 2. Nova Seção de Estudos adicionada abaixo de Projetos */}
+        <StudiesSection studies={data.studies} />
 
         <CertificationsSection certifications={data.certifications} />
         <TalksSection talks={data.talks} />

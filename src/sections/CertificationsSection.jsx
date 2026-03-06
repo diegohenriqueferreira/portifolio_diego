@@ -3,7 +3,7 @@ import CredentialCard from "../components/cards/CredentialCard";
 import SectionHeading from "../components/layout/SectionHeading";
 
 const CATEGORY_OPTIONS = [
-  { id: "certificate", label: "Certificates" },
+  { id: "certificate", label: "Certificados" },
   { id: "badge", label: "Badges" }
 ];
 
@@ -16,7 +16,7 @@ function CertificationsSection({ certifications }) {
   const [activeCategory, setActiveCategory] = useState("certificate");
 
   const categorizedItems = useMemo(() => {
-    return certifications.map((item) => ({
+    return (certifications || []).map((item) => ({
       ...item,
       normalizedCategory: normalizeCategory(item.category)
     }));
@@ -37,8 +37,9 @@ function CertificationsSection({ certifications }) {
     : "grid gap-5 sm:grid-cols-2 xl:grid-cols-4";
 
   return (
+    /* MUDANÇA AQUI: id="certifications" para bater com o menu */
     <section id="certifications" className="section-shell perf-section scroll-mt-24">
-      <SectionHeading eyebrow="Certifications" />
+      <SectionHeading eyebrow="Certificados" />
 
       <div className="mb-5 flex flex-wrap justify-center gap-2">
         {CATEGORY_OPTIONS.map((option) => {
@@ -69,11 +70,7 @@ function CertificationsSection({ certifications }) {
         </div>
       ) : (
         <div className="glass-card p-6 text-center text-sm text-slate-300">
-          No {isBadgeView ? "badges" : "certificates"} found. Add
-          <code className="mx-1 rounded bg-white/5 px-1.5 py-0.5 text-xs text-[#dce8fa]">"category": "{isBadgeView ? "badge" : "certificate"}"</code>
-          in
-          <code className="mx-1 rounded bg-white/5 px-1.5 py-0.5 text-xs text-[#dce8fa]">src/data/certifications.json</code>
-          certification items.
+          Nenhum {isBadgeView ? "badge" : "certificado"} encontrado.
         </div>
       )}
     </section>

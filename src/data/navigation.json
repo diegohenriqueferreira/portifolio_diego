@@ -1,7 +1,7 @@
 [
   {
     "id": "hero",
-    "label": "Inicio"
+    "label": "Início"
   },
   {
     "id": "about",
@@ -9,22 +9,30 @@
   },
   {
     "id": "skills",
-    "label": "habilidades"
+    "label": "Habilidades"
   },
   {
-    "id": "certifications",
-    "label": "Certificados"
+    "id": "experience",
+    "label": "Experiência"
   },
   {
     "id": "projects",
     "label": "Projetos"
   },
   {
-    "id": "contact",
-    "label": "Contato"
+    "id": "studies",
+    "label": "Estudos"
+  },
+  {
+    "id": "certifications",
+    "label": "Certificados"
   },
   {
     "id": "talks",
     "label": "Palestras"
+  },
+  {
+    "id": "contact",
+    "label": "Contato"
   }
 ]

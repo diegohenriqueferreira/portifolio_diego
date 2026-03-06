@@ -11,7 +11,7 @@ function EducationSection({ education, compact = false }) {
 
   return (
     <section id="education" className={sectionClassName}>
-      <SectionHeading eyebrow="Education" />
+      <SectionHeading eyebrow="Educação" />
       <div className={gridClassName}>
         {education.map((item) => (
           <ElevationCard key={item.id} item={item} showCgpa />

@@ -13,7 +13,7 @@ function ProjectsSection({ projects }) {
   return (
     <section id="projects" className="section-shell perf-section scroll-mt-24">
       <SectionHeading
-        eyebrow="Projects"
+        eyebrow="Projetos"
         title=""
         description=""
       />

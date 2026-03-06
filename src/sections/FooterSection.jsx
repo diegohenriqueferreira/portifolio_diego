@@ -21,12 +21,12 @@ function FooterSection({ footer }) {
           </div>
 
           <div className="glass-subcard px-3 py-2 text-xs">
-            <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-accent">Office</p>
+            <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-accent">Local</p>
             <p className="mt-1 text-slate-200">{officeLocation}</p>
           </div>
 
           <div className="glass-subcard px-3 py-2 text-xs">
-            <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-accent">Phone</p>
+            <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-accent">Telefone</p>
             <p className="mt-1 text-slate-200">{phone}</p>
           </div>
         </div>

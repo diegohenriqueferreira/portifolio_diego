@@ -95,7 +95,7 @@ function CertificateCard({ item }) {
               rel="noopener noreferrer"
               className="inline-flex rounded-full border border-accent/55 bg-white/[0.04] px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.12em] text-accent transition hover:bg-accent hover:text-slate-950"
             >
-              Verify
+              Verificar
             </a>
           ) : (
             <span className="inline-flex rounded-full border border-white/30 bg-white/[0.04] px-3 py-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-slate-300">

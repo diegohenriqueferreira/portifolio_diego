@@ -14,13 +14,13 @@ function AboutSection({ aboutMeta, contactSocials }) {
 
   return (
     <section id="about" className="section-shell perf-section scroll-mt-24">
-      <SectionHeading eyebrow="About" />
+      <SectionHeading eyebrow="SOBRE" />
 
       <div className="relative overflow-hidden rounded-2xl border border-white/20 bg-white/[0.03] p-5 backdrop-blur-md sm:p-7">
         <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_85%_12%,rgba(184,255,78,0.16),transparent_45%),radial-gradient(circle_at_15%_85%,rgba(126,166,199,0.18),transparent_48%)]" />
         <div className="relative">
           <p className="text-[0.68rem] font-bold uppercase tracking-[0.2em] text-accent/85">
-            Brief About Me
+            RESUMO
           </p>
           <p className="about-intro-text mt-3 max-w-6xl text-sm leading-relaxed sm:text-base lg:text-lg">
             {meta.intro}

@@ -53,7 +53,7 @@ function SkillsSection({ skills }) {
 
   return (
     <section id="skills" className="section-shell perf-section scroll-mt-24">
-      <SectionHeading eyebrow="Skills" description={safeSkills.headline} />
+      <SectionHeading eyebrow="Habilidades" description={safeSkills.headline} />
 
       {normalizedCategories.length ? (
         <>
@@ -68,7 +68,7 @@ function SkillsSection({ skills }) {
               onClick={() => setShowAll((current) => !current)}
               className="rounded-full border border-white/30 bg-white/[0.04] px-4 py-2 text-[11px] font-semibold uppercase tracking-[0.12em] text-slate-200 transition hover:border-accent/55 hover:text-accent"
             >
-              {showAll ? "Show Core Skills" : hiddenSkillsCount > 0 ? `View All Skills (+${hiddenSkillsCount})` : "View All Skills"}
+              {showAll ? "Show Core Skills" : hiddenSkillsCount > 0 ? `Ver Todos (+${hiddenSkillsCount})` : "View All Skills"}
             </button>
           </div>
         </>

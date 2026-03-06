@@ -82,7 +82,7 @@ function ContactSection({ contactForm }) {
       setFormState(INITIAL_FORM_STATE);
       setStatus({
         type: "success",
-        message: parsedResponse?.message || formMeta.successMessage || "Message sent successfully."
+        message: parsedResponse?.message || formMeta.successMessage || "Mensagem enviada com sucesso."
       });
     } catch (error) {
       const detail = error?.message ? ` (${error.message})` : "";
@@ -101,9 +101,9 @@ function ContactSection({ contactForm }) {
     <section id="contact" className="section-shell perf-section scroll-mt-24">
       <div className="glass-surface mx-auto max-w-4xl p-4 sm:p-6">
         <div className="mb-3">
-          <p className="text-[10px] font-bold uppercase tracking-[0.18em] text-accent">Contact</p>
+          <p className="text-[10px] font-bold uppercase tracking-[0.18em] text-accent">Contato</p>
           <h2 className="mt-1 font-display text-4xl font-semibold text-ink sm:text-[1.6rem]">
-            Drop Me a Message
+            Deixe-me uma mensagem
           </h2>
         </div>
 
@@ -121,17 +121,17 @@ function ContactSection({ contactForm }) {
 
           <div className="mt-4 grid gap-3 sm:grid-cols-2">
             <label className="block text-sm font-semibold text-slate-200" htmlFor="contact-name">
-              Name
+              Nome
               <input
                 id="contact-name"
-                name="name"
+                name="nome"
                 type="text"
                 required
                 autoComplete="name"
                 value={formState.name}
                 onChange={handleChange}
                 className="mt-1 w-full rounded-xl border border-white/30 bg-white/5 px-3 py-2 text-sm text-slate-100 outline-none backdrop-blur-md transition focus:border-accent"
-                placeholder="Your name"
+                placeholder="Seu nome"
               />
             </label>
 
@@ -146,21 +146,21 @@ function ContactSection({ contactForm }) {
                 value={formState.email}
                 onChange={handleChange}
                 className="mt-1 w-full rounded-xl border border-white/30 bg-white/5 px-3 py-2 text-sm text-slate-100 outline-none backdrop-blur-md transition focus:border-accent"
-                placeholder="you@example.com"
+                placeholder="seuemail@email.com"
               />
             </label>
 
             <label className="block text-sm font-semibold text-slate-200 sm:col-span-2" htmlFor="contact-message">
-              Message
+              Mensagem
               <textarea
                 id="contact-message"
-                name="message"
+                name="Mensagem"
                 required
                 rows={4}
                 value={formState.message}
                 onChange={handleChange}
                 className="mt-1 w-full rounded-xl border border-white/30 bg-white/5 px-3 py-2 text-sm text-slate-100 outline-none backdrop-blur-md transition focus:border-accent"
-                placeholder="Tell me about your project"
+                placeholder="Digite aqui a sua mensagem"
               />
             </label>
           </div>
@@ -171,7 +171,7 @@ function ContactSection({ contactForm }) {
               disabled={isSubmitting}
               className="rounded-full bg-accent px-4 py-2 text-[10px] font-bold uppercase tracking-[0.14em] text-slate-950 shadow-[0_6px_18px_rgba(184,255,78,0.24)] transition hover:bg-accent/85 disabled:cursor-not-allowed disabled:opacity-65"
             >
-              {isSubmitting ? "Sending..." : "Send Message"}
+              {isSubmitting ? "Sending..." : "Enviar Mensagem"}
             </button>
             {!hasEndpoint ? (
               <span className="text-[10px] font-semibold uppercase tracking-[0.12em] text-slate-300">

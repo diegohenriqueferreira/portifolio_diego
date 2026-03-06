@@ -7,6 +7,7 @@ import achievements from "./achievements.json";
 import services from "./services.json";
 import projects from "./projects.json";
 import blogs from "./blogs.json";
+import studies from "./studies.json"; // 1. Importe o novo arquivo
 import education from "./education.json";
 import experience from "./experience.json";
 import certifications from "./certifications.json";
@@ -25,6 +26,7 @@ const data = {
   services,
   projects,
   blogs,
+  studies, // 2. Adicione aqui
   education,
   experience,
   certifications,

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "study-vba",
+    "image": "/assets/studies/vba.jpg",
+    "title": "Desenvolvimento de Soluções em VBA",
+    "description": "Estudo de VBA aplicado ao Excel para automação de processos, tratamento de dados e otimização de rotinas administrativas."
+  },
+  {
+    "id": "study-scraping",
+    "image": "/assets/studies/web.jpg",
+    "title": "Estudos em Web Scraping",
+    "description": "Estudo de técnicas de extração automatizada de dados de sites, utilizando ferramentas e scripts para coleta, organização e análise de informações."
+  },
+  {
+    "id": "study-python",
+    "image": "/assets/studies/python.jpg",
+    "title": "Programação em Python",
+    "description": "Estudo da linguagem Python aplicado à automação de processos, análise de dados e desenvolvimento de scripts para otimização de tarefas."
+  },
+  {
+    "id": "study-n8n",
+    "image": "/assets/studies/n8n.jpeg",
+    "title": "Automação de Processos com n8n",
+    "description": "Estudo da ferramenta n8n para criação de automações e integrações entre diferentes sistemas, otimizando processos e fluxo de dados."
+  }
+]
