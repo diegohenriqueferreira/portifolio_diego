@@ -1,0 +1,17 @@
+{
+  "name": "Hrishinandan N Portfolio",
+  "short_name": "Hrishi Portfolio",
+  "description": "Machine learning portfolio with projects, achievements, blogs, certifications, and talks.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#040c16",
+  "theme_color": "#040c16",
+  "icons": [
+    {
+      "src": "/assets/hero/hero-portrait.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ]
+}

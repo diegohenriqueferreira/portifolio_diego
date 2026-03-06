@@ -1,0 +1,32 @@
+[
+  {
+    "id": "project-1",
+    "image": "/assets/projects/dashboard-manutencao.webp",
+    "title": "Dashboard de Controle de Disponibilidade Física (DF)",
+    "time": "Moderna Transportes",
+    "description": "Desenvolvimento de indicadores automatizados em Power BI para monitoramento de frota em tempo real, focando na redução do tempo médio de reparo (MTTR) e aumento da confiabilidade dos ativos.",
+    "github": "",
+    "website": "",
+    "highlighted": true
+  },
+  {
+    "id": "project-2",
+    "image": "/assets/projects/sap-gestao.webp",
+    "title": "Otimização de Fluxo de Materiais via SAP MM/PM",
+    "time": "ArcelorMittal Bioflorestas",
+    "description": "Implementação de rotinas de inventário cíclico e conciliação de estoque de peças críticas, garantindo a disponibilidade de materiais para o cumprimento do plano de manutenção preventiva.",
+    "github": "",
+    "website": "",
+    "highlighted": true
+  },
+  {
+    "id": "project-3",
+    "image": "/assets/projects/lean-projeto.webp",
+    "title": "Padronização de Processos e Melhoria Contínua",
+    "time": "Gestão Operacional",
+    "description": "Aplicação de ferramentas Lean (PDCA e FMEA) para mapeamento de falhas recorrentes e elaboração de relatórios gerenciais para redução de custos de manutenção corretiva.",
+    "github": "",
+    "website": "",
+    "highlighted": false
+  }
+]

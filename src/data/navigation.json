@@ -1,0 +1,30 @@
+[
+  {
+    "id": "hero",
+    "label": "Inicio"
+  },
+  {
+    "id": "about",
+    "label": "Sobre"
+  },
+  {
+    "id": "skills",
+    "label": "habilidades"
+  },
+  {
+    "id": "certifications",
+    "label": "Certificados"
+  },
+  {
+    "id": "projects",
+    "label": "Projetos"
+  },
+  {
+    "id": "contact",
+    "label": "Contato"
+  },
+  {
+    "id": "talks",
+    "label": "Palestras"
+  }
+]

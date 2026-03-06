@@ -1,0 +1,37 @@
+[
+  {
+    "id": "service-1",
+    "image": "/assets/services/pcm.webp",
+    "title": "Gestão e Planejamento (PCM)",
+    "time": "",
+    "description": "Estruturação de planos de manutenção preventiva e preditiva, gestão de ordens de serviço e otimização de cronogramas."
+  },
+  {
+    "id": "service-2",
+    "image": "/assets/services/kpi.webp",
+    "title": "Análise de Indicadores e Custos",
+    "time": "",
+    "description": "Monitoramento de KPIs estratégicos (MTBF, MTTR, DF) e gestão de custos para suporte à tomada de decisão."
+  },
+  {
+    "id": "service-3",
+    "image": "/assets/services/lean.webp",
+    "title": "Melhoria Contínua & Lean",
+    "time": "Experiência Prática",
+    "description": "Aplicação de metodologias Lean Manufacturing e ferramentas de análise de falhas (FMEA/PDCA) para redução de desperdícios."
+  },
+  {
+    "id": "service-4",
+    "image": "/assets/services/sap.webp",
+    "title": "Consultoria em ERP (SAP PM/MM)",
+    "time": "",
+    "description": "Padronização de processos de manutenção e suprimentos dentro do ambiente SAP, garantindo integridade de dados."
+  },
+  {
+    "id": "service-5",
+    "image": "/assets/services/bi.webp",
+    "title": "Business Intelligence Industrial",
+    "time": "",
+    "description": "Desenvolvimento de dashboards automatizados em Power BI para monitoramento operacional em tempo real."
+  }
+]

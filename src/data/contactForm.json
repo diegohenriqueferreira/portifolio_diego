@@ -1,0 +1,12 @@
+{
+  "id": "contact-form-1",
+  "appScriptUrl": "https://formspree.io/f/xaqpwzdr",
+  "title": "Entre em Contato",
+  "description": "Tem alguma dúvida ou proposta? Preencha os campos abaixo e eu te responderei o mais breve possível.",
+  "namePlaceholder": "Seu Nome",
+  "emailPlaceholder": "Seu E-mail",
+  "messagePlaceholder": "Sua Mensagem",
+  "buttonLabel": "ENVIAR MENSAGEM",
+  "successMessage": "Mensagem enviada com sucesso!",
+  "errorMessage": "Erro ao enviar. Tente novamente."
+}

@@ -1,0 +1,211 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/portfolio-schema.json",
+  "title": "Portfolio Data Schema",
+  "type": "object",
+  "required": [
+    "site",
+    "navigation",
+    "hero",
+    "aboutMeta",
+    "skills",
+    "achievements",
+    "services",
+    "projects",
+    "blogs",
+    "education",
+    "experience",
+    "certifications",
+    "talks",
+    "contactSocials",
+    "contactForm",
+    "footer"
+  ],
+  "properties": {
+    "site": {
+      "type": "object",
+      "required": ["name", "role", "location", "email", "tagline"],
+      "properties": {
+        "name": { "type": "string" },
+        "role": { "type": "string" },
+        "location": { "type": "string" },
+        "email": { "type": "string" },
+        "tagline": { "type": "string" }
+      }
+    },
+    "navigation": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/navItem" }
+    },
+    "hero": {
+      "allOf": [{ "$ref": "#/$defs/baseItem" }],
+      "type": "object",
+      "required": ["primaryCta", "secondaryCta"],
+      "properties": {
+        "primaryCta": { "$ref": "#/$defs/linkAction" },
+        "secondaryCta": { "$ref": "#/$defs/linkAction" }
+      }
+    },
+    "aboutMeta": {
+      "type": "object",
+      "required": ["id", "intro", "cvLabel", "cvUrl"],
+      "properties": {
+        "id": { "type": ["string", "number"] },
+        "intro": { "type": "string" },
+        "cvLabel": { "type": "string" },
+        "cvUrl": { "type": "string" }
+      }
+    },
+    "skills": { "$ref": "#/$defs/skillsData" },
+    "achievements": { "$ref": "#/$defs/richItemArray" },
+    "services": { "$ref": "#/$defs/itemArray" },
+    "projects": { "$ref": "#/$defs/richItemArray" },
+    "blogs": { "$ref": "#/$defs/richItemArray" },
+    "education": { "$ref": "#/$defs/itemArray" },
+    "experience": { "$ref": "#/$defs/itemArray" },
+    "certifications": { "$ref": "#/$defs/certificationArray" },
+    "talks": { "$ref": "#/$defs/itemArray" },
+    "contactSocials": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/socialProfile" }
+    },
+    "contactForm": {
+      "type": "object",
+      "required": ["id", "appScriptUrl", "successMessage", "errorMessage"],
+      "properties": {
+        "id": { "type": ["string", "number"] },
+        "appScriptUrl": { "type": "string" },
+        "sheetId": { "type": "string" },
+        "successMessage": { "type": "string" },
+        "errorMessage": { "type": "string" },
+        "title": { "type": "string" },
+        "time": { "type": "string" },
+        "description": { "type": "string" }
+      }
+    },
+    "footer": {
+      "type": "object",
+      "required": ["id", "title", "time", "description", "email", "officeLocation", "phone"],
+      "properties": {
+        "id": { "type": ["string", "number"] },
+        "title": { "type": "string" },
+        "time": { "type": "string" },
+        "description": { "type": "string" },
+        "email": { "type": "string" },
+        "officeLocation": { "type": "string" },
+        "phone": { "type": "string" }
+      }
+    }
+  },
+  "$defs": {
+    "navItem": {
+      "type": "object",
+      "required": ["id", "label"],
+      "properties": {
+        "id": { "type": "string" },
+        "label": { "type": "string" }
+      }
+    },
+    "baseItem": {
+      "type": "object",
+      "required": ["id", "image", "title", "time", "description"],
+      "properties": {
+        "id": { "type": ["string", "number"] },
+        "image": { "type": "string" },
+        "title": { "type": "string" },
+        "time": { "type": "string" },
+        "description": { "type": "string" },
+        "cgpa": { "type": "string" }
+      }
+    },
+    "richItem": {
+      "allOf": [{ "$ref": "#/$defs/baseItem" }],
+      "type": "object",
+      "properties": {
+        "category": { "type": "string" },
+        "github": { "type": "string" },
+        "website": { "type": "string" },
+        "referenceLabel": { "type": "string" },
+        "highlighted": { "type": "boolean" },
+        "verifyUrl": { "type": "string" }
+      }
+    },
+    "itemArray": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/baseItem" }
+    },
+    "richItemArray": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/richItem" }
+    },
+    "certificationItem": {
+      "type": "object",
+      "required": ["id", "image", "title", "time", "category"],
+      "properties": {
+        "id": { "type": ["string", "number"] },
+        "image": { "type": "string" },
+        "title": { "type": "string" },
+        "time": { "type": "string" },
+        "category": { "type": "string" },
+        "verifyUrl": { "type": "string" }
+      }
+    },
+    "certificationArray": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/certificationItem" }
+    },
+    "socialProfile": {
+      "type": "object",
+      "required": ["id", "iconPath", "title", "website"],
+      "properties": {
+        "id": { "type": "string" },
+        "iconPath": { "type": "string" },
+        "title": { "type": "string" },
+        "website": { "type": "string" }
+      }
+    },
+    "skillItem": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "id": { "type": ["string", "number"] },
+        "name": { "type": "string" },
+        "order": { "type": "number" },
+        "featured": { "type": "boolean" }
+      }
+    },
+    "skillCategory": {
+      "type": "object",
+      "required": ["id", "title", "items"],
+      "properties": {
+        "id": { "type": ["string", "number"] },
+        "title": { "type": "string" },
+        "items": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/skillItem" }
+        }
+      }
+    },
+    "skillsData": {
+      "type": "object",
+      "required": ["id", "categories"],
+      "properties": {
+        "id": { "type": ["string", "number"] },
+        "headline": { "type": "string" },
+        "previewCountPerCategory": { "type": "number" },
+        "categories": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/skillCategory" }
+        }
+      }
+    },
+    "linkAction": {
+      "type": "object",
+      "required": ["label", "href"],
+      "properties": {
+        "label": { "type": "string" },
+        "href": { "type": "string" }
+      }
+    }
+  }
+}

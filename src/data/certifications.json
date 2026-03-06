@@ -1,0 +1,99 @@
+[
+{
+"id": "cert-11",
+"image": "/assets/certifications/excelvba.png",
+"title": "Vba para Excel - 40h",
+"time": "2026",
+"category": "certificate",
+"verifyUrl": ""
+},
+{
+"id": "cert-12",
+"image": "/assets/certifications/gestaocustosemprojetos.png",
+"title": "Gestão de custos em projetos - 20h",
+"time": "2025",
+"category": "certificate",
+"verifyUrl": ""
+},
+{
+"id": "cert-13",
+"image": "/assets/certifications/programador.png",
+"title": "Formação Programadores de Manutenção - 20h",
+"time": "2025",
+"category": "certificate",
+"verifyUrl": ""
+},
+{
+"id": "cert-1",
+"image": "/assets/certifications/analista.png",
+"title": "Formação de Analistas de Manutenção - 20h",
+"time": "2022",
+"category": "certificate",
+"verifyUrl": "https://bit.ly/3w19uhE"
+},
+{
+"id": "cert-3",
+"image": "/assets/certifications/gestaodeestoque.png",
+"title": "Gestão de Estoque da Manutenção - 20h",
+"time": "2022",
+"category": "certificate",
+"verifyUrl": "https://bit.ly/2SDaTxe"
+},
+{
+"id": "cert-4",
+"image": "/assets/certifications/paradasdemanutencao.png",
+"title": "GPM: Gestão de Paradas de Manutenção - 40h",
+"time": "2022",
+"category": "certificate",
+"verifyUrl": "https://bit.ly/3006bVP"
+},
+{
+"id": "cert-9",
+"image": "/assets/certifications/planejador.png",
+"title": "Formação de Planejadores de Manutenção - 20h",
+"time": "2022",
+"category": "certificate",
+"verifyUrl": "https://bit.ly/3jjosjt"
+},
+{
+"id": "cert-2",
+"image": "/assets/certifications/excelavancado.png",
+"title": "Excel Avançado: Técnicas para Análise de Dados - 30h",
+"time": "2021",
+"category": "certificate",
+"verifyUrl": "https://mais.ifmg.edu.br"
+},
+{
+"id": "cert-5",
+"image": "/assets/certifications/msproject.png",
+"title": "Gestão de Projetos com MS Project - 30h",
+"time": "2021",
+"category": "certificate",
+"verifyUrl": "https://mais.ifmg.edu.br"
+},
+{
+"id": "cert-6",
+"image": "/assets/certifications/greenbelt.png",
+"title": "Green Belt Six Sigma - 40h",
+"time": "2021",
+"category": "certificate",
+"verifyUrl": ""
+},
+{
+"id": "cert-7",
+"image": "/assets/certifications/lean.png",
+"title": "Lean Manufacturing - 40h",
+"time": "2021",
+"category": "certificate",
+"verifyUrl": ""
+},
+{
+"id": "cert-10",
+"image": "/assets/certifications/powerbi.png",
+"title": "Aprenda Power BI Completo - 15h",
+"time": "2021",
+"category": "certificate",
+"verifyUrl": "https://ude.my/UC-41393989-bbed-41a7-b56e-849c71046597"
+}
+
+]

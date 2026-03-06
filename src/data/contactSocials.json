@@ -1,0 +1,28 @@
+[
+  {
+    "id": "social-linkedin",
+    "iconPath": "/assets/social/linkedin.png",
+    "title": "LinkedIn",
+    "website": "https://www.linkedin.com/in/diegohenriqueferreira10/"
+  },
+  {
+    "id": "social-whatsapp",
+    "iconPath": "/assets/social/whatsapp.png",
+    "title": "Whats App",
+    "website": "https://wa.me/5537998261515"
+  },
+  {
+    "id": "social-gmail",
+    "iconPath": "/assets/social/gmail.png",
+    "title": "Gmail",
+    "website": "mailto:diegohenriqueferreira2013@gmail.com"
+  },
+
+  {
+    "id": "social-outlook",
+    "iconPath": "/assets/social/outlook.svg",
+    "title": "Outlook",
+    "website": "mailto:diegohenriqueferreira@outlook.com.br"
+  }
+
+]

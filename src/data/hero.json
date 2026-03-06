@@ -1,0 +1,15 @@
+{
+  "id": "hero-1",
+  "image": "/assets/hero/diego-perfil.jpg",
+  "title": "Diego Henrique Ferreira",
+"time": "",
+  "description": "Profissional com experiência em manutenção, suprimentos e melhoria contínua, atuando nos setores de transporte de combustíveis, ferro e aço, produção de energia a partir de carvão vegetal e frigorífico de aves. Forte perfil analítico, foco em resultados e habilidade em estruturação de processos, controle de custos, indicadores e análise de dados. Conhecimentos em Excel, Power BI e SAP. Experiência em liderança, gestão de rotina e implementação de melhorias.",
+"primaryCta": {
+    "label": "Ver Projetos",
+    "href": "#projects"
+  },
+  "secondaryCta": {
+    "label": "Contato",
+    "href": "#contact"
+  }
+}

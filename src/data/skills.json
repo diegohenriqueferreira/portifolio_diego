@@ -1,0 +1,37 @@
+{
+  "id": "skills-1",
+  "headline": "Competências técnicas e ferramentas estratégicas aplicadas à excelência operacional e gestão de ativos.",
+  "previewCountPerCategory": 3,
+  "categories": [
+    {
+      "id": "skills-pcm-core",
+      "title": "Gestão de Manutenção (PCM)",
+      "items": [
+        { "id": "skill-pcm-1", "name": "Planejamento e Controle (PCM)", "order": 1, "featured": true },
+        { "id": "skill-pcm-2", "name": "Indicadores (MTBF, MTTR, DF)", "order": 2, "featured": true },
+        { "id": "skill-pcm-3", "name": "Manutenções Preventiva e Corretiva", "order": 3, "featured": true },
+        { "id": "skill-pcm-4", "name": "Ordens de Serviço", "order": 4, "featured": false }
+      ]
+    },
+    {
+      "id": "skills-sap-data",
+      "title": "Sistemas e Análise de Dados",
+      "items": [
+        { "id": "skill-sap-1", "name": "SAP PM", "order": 1, "featured": true },
+        { "id": "skill-sap-2", "name": "SAP MM", "order": 2, "featured": true },
+        { "id": "skill-data-1", "name": "Power BI (Relatórios e Dashboards)", "order": 3, "featured": true },
+        { "id": "skill-data-2", "name": "Excel Avançado", "order": 4, "featured": false }
+      ]
+    },
+    {
+      "id": "skills-logistica-gestao",
+      "title": "Suprimentos e Melhoria",
+      "items": [
+        { "id": "skill-log-1", "name": "Gestão de Estoques", "order": 1, "featured": true },
+        { "id": "skill-log-2", "name": "Controle de Materiais", "order": 2, "featured": true },
+        { "id": "skill-gest-1", "name": "Melhoria Contínua", "order": 3, "featured": true },
+        { "id": "skill-gest-2", "name": "Relatórios Operacionais", "order": 4, "featured": false }
+      ]
+    }
+  ]
+}

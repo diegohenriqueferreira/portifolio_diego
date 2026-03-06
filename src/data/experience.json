@@ -1,0 +1,44 @@
+[
+  {
+    "id": "exp-1",
+    "image": "/assets/experience/moderna.jpg",
+    "title": "Supervisor de Manutenção",
+    "time": "Mai/2025 – Nov/2025",
+    "description": "Acompanhamento e programação de manutenções preventivas e corretivas. - Suporte ao planejamento da manutenção e controle de prazos. - Desenvolvimento e acompanhamento de indicadores de manutenção e custos. - Elaboração de relatórios gerenciais em Excel e Power BI. - Apoio na padronização de processos e rotinas operacionais."
+  },
+  {
+    "id": "exp-2",
+    "image": "/assets/experience/moderna.jpg",
+    "title": "Analista de Manutenção",
+    "time": "Out/2024 – Mai/2025",
+    "description": "- Apoio direto ao Planejamento e Controle da Manutenção (PCM). - Controle e acompanhamento de ordens de serviço. - Organização de rotinas de manutenção preventiva. - Atualização de controles, planilhas e indicadores"
+  },
+  {
+    "id": "exp-3",
+    "image": "/assets/experience/arcelormittal.png",
+    "title": "Técnico de Suprimentos",
+    "time": "Jan/2024 – Set/2024",
+    "description": "- Controle e conciliação de estoques e inventários. - Recebimento de materiais e lançamento de notas fiscais no SAP MM. - Apoio ao planejamento por meio da disponibilidade correta de materiais. - Investigação de divergências de estoque."
+  },
+  {
+    "id": "exp-4",
+    "image": "/assets/experience/arcelormittal.png",
+    "title": "Estagiário – Equipamentos Móveis",
+    "time": "Fev/2023 – Dez/2023",
+    "description": "- Controle e atualização de ordens de serviço no SAP PM. - Emissão de relatórios operacionais e dashboards em Power BI. - Criação de requisições de compra."
+  },
+  {
+    "id": "exp-5",
+    "image": "/assets/experience/cofer.jpg",
+    "title": "Assistente de PCM",
+    "time": "Ago/2022 – Nov/2022",
+    "description": "• Acompanhamento e atualizações dos indicadores de performance e planejamento (DF, MTBF, MTTR). • Abertura, acompanhamento e encerramento de ordens de serviço. • Elaboração de planilhas e relatórios referentes ao controle de planejamento do setor. • Solicitação e Follow-up de requisições de materiais e serviços. • Emissão de reservas de materiais."
+  },
+  {
+    "id": "exp-6",
+    "image": "/assets/experience/avivar.jpg",
+    "title": "Estagiário – Manutenção Industrial",
+    "time": "Fev/2022 – Ago/2022",
+    "description": "• Job rotation nas áreas de Planejamento e Controle de Manutenção, Produtos Industrializados, Setor de Abate e Graxaria."
+  }
+]

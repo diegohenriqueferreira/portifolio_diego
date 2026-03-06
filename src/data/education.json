@@ -1,0 +1,19 @@
+[
+  {
+    "id": "education-1",
+    "image": "/assets/education/ifmg.png",
+    "title": "Bacharelado em Engenharia Mecânica",
+    "time": "2017 - 2023",
+    "description": "Instituto Federal de Minas Gerais (IFMG) - Campus Arcos - MG",
+    "cgpa": "Concluído"
+  },
+
+  {
+    "id": "education-2",
+    "image": "/assets/education/ifmg.png",
+    "title": "Técnico em Informática",
+    "time": "2008 - 2010",
+    "description": "Instituto Federal de Minas Gerais (IFMG) - Campus Bambuí- MG",
+    "cgpa": "Concluído"
+  }
+]
