@@ -68,7 +68,7 @@ function SkillsSection({ skills }) {
               onClick={() => setShowAll((current) => !current)}
               className="rounded-full border border-white/30 bg-white/[0.04] px-4 py-2 text-[11px] font-semibold uppercase tracking-[0.12em] text-slate-200 transition hover:border-accent/55 hover:text-accent"
             >
-              {showAll ? "Show Core Skills" : hiddenSkillsCount > 0 ? `Ver Todos (+${hiddenSkillsCount})` : "View All Skills"}
+              {showAll ? "Mostrar mais" : hiddenSkillsCount > 0 ? `Ver Todos (+${hiddenSkillsCount})` : "Mostrar todos"}
             </button>
           </div>
         </>

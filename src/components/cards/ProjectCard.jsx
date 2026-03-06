@@ -42,7 +42,7 @@ function ProjectCard({ item }) {
             rel="noopener noreferrer"
             className="rounded-full border border-accent/55 bg-white/[0.04] px-3 py-1.5 text-xs font-semibold uppercase tracking-[0.11em] text-accent transition hover:bg-accent hover:text-slate-950"
           >
-            Visit
+            Acessar
           </a>
         ) : null}
       </div>

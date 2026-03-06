@@ -1,32 +1,86 @@
 [
+
   {
     "id": "project-1",
-    "image": "/assets/projects/dashboard-manutencao.webp",
-    "title": "Dashboard de Controle de Disponibilidade Física (DF)",
-    "time": "Moderna Transportes",
-    "description": "Desenvolvimento de indicadores automatizados em Power BI para monitoramento de frota em tempo real, focando na redução do tempo médio de reparo (MTTR) e aumento da confiabilidade dos ativos.",
+    "image": "/assets/projects/rolamento.jpg",
+    "title": "Análise de Falha - Defeito crônico rolamento",
+    "time": "Engenharia e Manutenção",
+    "description": "Análise Comparativa – Defeito crônico Fragilidade do rolamento do Eixo Piloto da Caixa de Transmissão Caminhões Volvo FH 540",
     "github": "",
-    "website": "",
+    "website": "https://www.linkedin.com/pulse/an%25C3%25A1lise-comparativa-defeito-cr%25C3%25B4nico-fragilidade-do-da-diego-trr9c/?trackingId=Gy%2FFBsU%2FxDOCB7d4riMTag%3D%3D",
     "highlighted": true
   },
+
   {
     "id": "project-2",
-    "image": "/assets/projects/sap-gestao.webp",
-    "title": "Otimização de Fluxo de Materiais via SAP MM/PM",
-    "time": "ArcelorMittal Bioflorestas",
-    "description": "Implementação de rotinas de inventário cíclico e conciliação de estoque de peças críticas, garantindo a disponibilidade de materiais para o cumprimento do plano de manutenção preventiva.",
+    "image": "/assets/projects/5s.jpg",
+    "title": "Organização e Eficiência Operacional",
+    "time": "Engenharia e Manutenção",
+    "description": "Importância da organização no setor de manutenção",
     "github": "",
-    "website": "",
+    "website": "https://www.linkedin.com/posts/diegohenriqueferreira10_5s-gestaodamanutencao-eficienciaoperacional-activity-7389050479411990528-G5I8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWJYyoBhN_4YnmWgk7CoZ8ua3Y3ioM4iYk",
+    "highlighted": true
+  },
+
+  {
+    "id": "project-3",
+    "image": "/assets/projects/pinorei.png",
+    "title": "Redução de custo através de Gestão Técnica de desgaste",
+    "time": "Engenharia e Manutenção",
+    "description": "Análise técnica de desgaste de Pino rei resultando em economia e segurança",
+    "github": "",
+    "website": "https://www.linkedin.com/posts/lucas-braga-martins-a58908133_seguranca-ugcPost-7265757552418639873-BBtH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWJYyoBhN_4YnmWgk7CoZ8ua3Y3ioM4iYk",
     "highlighted": true
   },
   {
-    "id": "project-3",
+    "id": "project-4",
+    "image": "/assets/projects/fluxocaixa.jpg",
+    "title": "Controle de fluxo de caixa",
+    "time": "Excel com VBA",
+    "description": "Sistema em VBA para controle de fluxo de caixa",
+    "github": "",
+    "website": "https://drive.google.com/drive/u/0/folders/1-MNyhdaIFbtr-uSs3-1I6NkolE8AomDf",
+    "highlighted": true
+  },
+  {
+    "id": "project-5",
+    "image": "/assets/projects/cadastrobasico.jpg",
+    "title": "Sistema de cadastro básico",
+    "time": "Excel com VBA",
+    "description": "Sistema de cadastro básico em VBA", 
+    "github": "",
+    "website": "https://drive.google.com/drive/u/0/folders/1-MNyhdaIFbtr-uSs3-1I6NkolE8AomDf",
+    "highlighted": true
+  },
+  {
+    "id": "project-6",
     "image": "/assets/projects/lean-projeto.webp",
-    "title": "Padronização de Processos e Melhoria Contínua",
-    "time": "Gestão Operacional",
+    "title": "Sistema de cadastro avançado",
+    "time": "Excel com VBA",
     "description": "Aplicação de ferramentas Lean (PDCA e FMEA) para mapeamento de falhas recorrentes e elaboração de relatórios gerenciais para redução de custos de manutenção corretiva.",
     "github": "",
-    "website": "",
+    "website": "https://drive.google.com/drive/u/0/folders/1-MNyhdaIFbtr-uSs3-1I6NkolE8AomDf",
+    "highlighted": false
+  },
+
+  {
+    "id": "project-7",
+    "image": "/assets/projects/lean-projeto.webp",
+    "title": "Sistema de cadastro avançado - Base Access",
+    "time": "Excel com VBA",
+    "description": "Aplicação de ferramentas Lean (PDCA e FMEA) para mapeamento de falhas recorrentes e elaboração de relatórios gerenciais para redução de custos de manutenção corretiva.",
+    "github": "",
+    "website": "https://drive.google.com/drive/u/0/folders/1-MNyhdaIFbtr-uSs3-1I6NkolE8AomDf",
+    "highlighted": false
+  },
+  {
+    "id": "project-8",
+    "image": "/assets/projects/lean-projeto.webp",
+    "title": "Tabela de campeonato",
+    "time": "Excel com VBA",
+    "description": "Aplicação de ferramentas Lean (PDCA e FMEA) para mapeamento de falhas recorrentes e elaboração de relatórios gerenciais para redução de custos de manutenção corretiva.",
+    "github": "",
+    "website": "https://drive.google.com/drive/u/0/folders/1-MNyhdaIFbtr-uSs3-1I6NkolE8AomDf",
     "highlighted": false
   }
 ]
