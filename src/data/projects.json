@@ -32,12 +32,12 @@
   {
     "id": "project-4",
     "image": "/assets/projects/fluxocaixa.jpg", 
-    "videoUrl": "https://www.youtube.com/watch?v=nD3qQTlF-5I",
+    "videoUrl": "https://youtu.be/Dtmyv8w43jo",
     "title": "Controle de Fluxo de Caixa",
     "time": "Excel com VBA",
     "description": "Sistema financeiro automatizado com interface personalizada (Dark Mode), controle de entradas/saídas e geração de dashboards dinâmicos.",
     "github": "",
-    "website": "https://www.youtube.com/watch?v=nD3qQTlF-5I",
+    "website": "https://youtu.be/Dtmyv8w43jo",
     "highlighted": true
   }
 ]
