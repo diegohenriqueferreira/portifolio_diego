@@ -4,7 +4,7 @@
     "image": "/assets/projects/rolamento.jpg",
     "title": "Análise de Falha: Volvo FH 540",
     "time": "Engenharia e Manutenção",
-    "description": "Estudo técnico detalhado sobre a fragilidade crônica do rolamento do eixo piloto, utilizando análise comparativa para aumentar a confiabilidade da transmissão.",
+    "description": "Estudo técnico detalhado sobre a fragilidade crônica do rolamento do eixo piloto da caixa de transmissão do Volvo FH 540.",
     "github": "",
     "website": "https://www.linkedin.com/pulse/an%25C3%25A1lise-comparativa-defeito-cr%25C3%25B4nico-fragilidade-do-da-diego-trr9c/",
     "highlighted": true
@@ -14,7 +14,7 @@
     "image": "/assets/projects/5s.jpg",
     "title": "Eficiência Operacional e 5S",
     "time": "Engenharia e Manutenção",
-    "description": "Implementação de metodologias de organização industrial para otimizar o fluxo de trabalho no setor de manutenção e reduzir tempos de resposta.",
+    "description": "Importância da organização no setor de manutenção para a excelência operacional.",
     "github": "",
     "website": "https://www.linkedin.com/posts/diegohenriqueferreira10_5s-gestaodamanutencao-eficienciaoperacional-activity-7389050479411990528-G5I8/",
     "highlighted": true
@@ -33,11 +33,23 @@
     "id": "project-4",
     "image": "/assets/projects/fluxocaixa.jpg", 
     "videoUrl": "https://youtu.be/Dtmyv8w43jo",
-    "title": "Controle de Fluxo de Caixa",
-    "time": "Excel com VBA",
-    "description": "Sistema financeiro automatizado com interface personalizada (Dark Mode), controle de entradas/saídas e geração de dashboards dinâmicos.",
+    "title": "Controle de Fluxo de Caixa com VBA",
+    "time": "Excel",
+    "description": "Sistema financeiro básico em VBA com controle de entradas/saídas e geração de dashboard dinâmico.",
     "github": "",
     "website": "https://youtu.be/Dtmyv8w43jo",
+    "highlighted": true
+  },
+
+{
+    "id": "project-5",
+    "image": "/assets/projects/cadastrobasico.jpg",
+    "videoUrl": "https://youtu.be/gav3U4aE4zs",
+    "title": "Sistema básico de cadastro de equipamentos em VBA",
+    "time": "Excel",
+    "description": "Sistema básico de cadastro em VBA, aplicado ao cadastro de equipamentos agrícolas.", 
+    "github": "",
+    "website": "https://youtu.be/gav3U4aE4zs",
     "highlighted": true
   }
 ]
