@@ -31,7 +31,7 @@
   },
   {
     "id": "project-4",
-    "image": "/assets/projects/fluxocaixa.jpg", 
+    "image": "/assets/projects/fluxocaixa.jpg",
     "videoUrl": "https://youtu.be/Dtmyv8w43jo",
     "title": "Controle de Fluxo de Caixa com VBA",
     "time": "Excel",
@@ -40,16 +40,29 @@
     "website": "https://youtu.be/Dtmyv8w43jo",
     "highlighted": true
   },
-
-{
+  {
     "id": "project-5",
     "image": "/assets/projects/cadastrobasico.jpg",
     "videoUrl": "https://youtu.be/gav3U4aE4zs",
     "title": "Sistema básico de cadastro de equipamentos em VBA",
     "time": "Excel",
-    "description": "Sistema básico de cadastro em VBA, aplicado ao cadastro de equipamentos agrícolas.", 
+    "description": "Sistema básico de cadastro em VBA, aplicado ao cadastro de equipamentos agrícolas.",
+    "github": "",
+    "website": "https://youtu.be/gav3U4aE4zs",
+    "highlighted": true
+  },
+
+{
+    "id": "project-6",
+    "image": "/assets/projects/campeonato.jpg",
+    "videoUrl": "https://youtu.be/gav3U4aE4zs",
+    "title": "Tabela Campeonato Brasileiro 2026",
+    "time": "Excel",
+    "description": "Tabela do Campeonato Brasileiro 2026 desenvolvida em Excel + VBA.", 
     "github": "",
     "website": "https://youtu.be/gav3U4aE4zs",
     "highlighted": true
   }
+
+
 ]
