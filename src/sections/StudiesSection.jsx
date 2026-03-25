@@ -14,7 +14,7 @@ function StudiesSection({ studies }) {
 
   return (
     <section id="studies" className="section-shell perf-section scroll-mt-24">
-      <SectionHeading eyebrow="Próximos estudos/projetos" />
+      <SectionHeading eyebrow="Conteúdos em aprendizado" />
       <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
         {studies.map((item, index) => (
           <TimelineCard 

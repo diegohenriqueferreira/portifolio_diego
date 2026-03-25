@@ -53,7 +53,7 @@
   },
 
 {
-    "id": "project-6",
+    "id": "project-7",
     "image": "/assets/projects/campeonato.jpg",
     "videoUrl": "https://youtu.be/xv3xCM8su00",
     "title": "Tabela Campeonato Brasileiro 2026",
@@ -62,7 +62,17 @@
     "github": "",
     "website": "https://youtu.be/xv3xCM8su00",
     "highlighted": true
+  },
+
+{
+    "id": "project-6",
+    "image": "/assets/projects/copa.jpg",
+    "videoUrl": "https://youtu.be/WlZ4QlUOkNI",
+    "title": "Tabela Copa do Mundo 2022",
+    "time": "Excel",
+    "description": "Tabela da Copa do Mundo 2022 desenvolvida em Excel + VBA.", 
+    "github": "",
+    "website": "https://youtu.be/WlZ4QlUOkNI",
+    "highlighted": true
   }
-
-
 ]
