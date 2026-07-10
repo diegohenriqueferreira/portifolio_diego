@@ -74,5 +74,17 @@
     "github": "",
     "website": "https://youtu.be/WlZ4QlUOkNI",
     "highlighted": true
+  },
+
+{
+    "id": "project-8",
+    "image": "/assets/projects/filtro.png",
+    "videoUrl": "https://youtu.be/G7DGdZvW04I",
+    "title": "Filtro de Pesquisa Avançado",
+    "time": "Excel",
+    "description": "Filtro de Pesquisa Avançado desenvolvido em Excel + VBA.", 
+    "github": "",
+    "website": "https://youtu.be/G7DGdZvW04I",
+    "highlighted": true
   }
 ]
