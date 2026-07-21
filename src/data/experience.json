@@ -4,21 +4,21 @@
     "image": "/assets/experience/moderna.jpg",
     "title": "Supervisor de Manutenção",
     "time": "Mai/2025 – Nov/2025",
-    "description": "• Acompanhamento e programação de manutenções preventivas e corretivas.\n• Suporte ao planejamento da manutenção e controle de prazos.\n• Desenvolvimento e report de indicadores de manutenção e custos.\n• Elaboração de relatórios gerenciais em Excel e Power BI.\n• Apoio na padronização de processos e rotinas operacionais."
+    "description": "• Acompanhamento e programação de manutenções preventivas e corretivas.\n• Suporte ao planejamento da manutenção e controle de prazos.\n• Desenvolvimento e acompanhamento de indicadores de manutenção e custos.\n• Elaboração de relatórios gerenciais em Excel e Power BI.\n• Apoio na padronização de processos e rotinas operacionais."
   },
   {
     "id": "exp-2",
     "image": "/assets/experience/moderna.jpg",
     "title": "Analista de Manutenção",
     "time": "Out/2024 – Mai/2025",
-    "description": "• Gestão e acompanhamento detalhado de custos de manutenção.\n• Controle e acompanhamento de ordens de serviço.\n• Organização de rotinas de manutenção preventiva.\n• Atualização de controles, planilhas e indicadores."
+    "description": "• Cadastro e hierarquização de ativos.\n• Elaboração de planos de manutenção preventiva.\n• Desenvolvimento de controles, planilhas e indicadores."
   },
   {
     "id": "exp-3",
     "image": "/assets/experience/tecnico.jpg",
     "title": "Técnico de Suprimentos",
     "time": "Jan/2024 – Set/2024",
-    "description": "• Controle e conciliação de estoques e inventários.\n• Recebimento de materiais e lançamento de notas fiscais no SAP MM.\n• Realização de follow-up com fornecedores.\n• Investigação de divergências de estoque."
+    "description": "• Controle e conciliação de estoques e inventários.\n• Recebimento de materiais e lançamento de notas fiscais no SAP MM.\n• Apoio ao planejamento por meio da disponibilidade correta de materiais.\n• Gestão dos níveis de estoques mínimos e máximo de materiais."
   },
   {
     "id": "exp-4",
@@ -32,7 +32,7 @@
     "image": "/assets/experience/cofer.jpg",
     "title": "Assistente de PCM",
     "time": "Ago/2022 – Nov/2022",
-    "description": "• Acompanhamento dos indicadores de performance (DF, MTBF, MTTR).\n• Abertura, acompanhamento e encerramento de ordens de serviço.\n• Solicitação e Follow-up de requisições de materiais e serviços.\n• Emissão de reservas de materiais."
+    "description": "• Controle e atualização de ordens de serviço no SAP PM.\n• Emissão de relatórios operacionais e dashboards em Power BI.\n• Criação de requisições de compra e apoio na garantia de estoque de materiais e insumos para manutenção."
   },
   {
     "id": "exp-6",
