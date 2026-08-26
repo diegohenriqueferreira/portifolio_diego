@@ -86,5 +86,17 @@
     "github": "",
     "website": "https://youtu.be/3Lvv5QEPaaE",
     "highlighted": true
+  },
+
+{
+    "id": "project-9",
+    "image": "/assets/projects/gestaomateriais.jfif",
+    "videoUrl": "/assets/projects/gestao_materiais.png",
+    "title": "Gestão de Materiais",
+    "time": "Excel",
+    "description": "Painel de Gestão de Materiais para análise de indicadores de estoque.", 
+    "github": "",
+    "website": "/assets/projects/gestao_materiais.png",
+    "highlighted": true
   }
 ]
