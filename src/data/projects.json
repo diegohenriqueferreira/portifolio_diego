@@ -98,5 +98,17 @@
     "github": "",
     "website": "/assets/projects/gestao_materiais.png",
     "highlighted": true
+  },
+{
+    "id": "project-10",
+    "image": "/assets/projects/bi_materiais.png",
+    "videoUrl": "https://youtu.be/5QFr4F2pGdg",
+    "title": "Gestão de Materiais",
+    "time": "Power-Bi",
+    "description": "Aplicaçao em Power-Bi - Gestão de Materiais.", 
+    "github": "",
+    "website": "https://youtu.be/5QFr4F2pGdg",
+    "highlighted": true
   }
+
 ]
