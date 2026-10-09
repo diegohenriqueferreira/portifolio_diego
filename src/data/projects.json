@@ -109,6 +109,93 @@
     "github": "",
     "website": "https://youtu.be/5QFr4F2pGdg",
     "highlighted": true
+  },
+{
+    "id": "project-11",
+    "image": "/assets/projects/tai1.png",
+    "videoUrl": "",
+    "title": "Tai I - Máquina expressa de Líquidos",
+    "time": "Projetos Acadêmicos",
+    "description": "Construção de uma máquina expressa, utilizando conceitos de bombas, escoamentos de fluidos, sistema elétrico e dimensionamento do reservatório.",
+    "website": "https://diegohenriqueferreira.github.io/Trabalhos-Acad-micos/Trabalhos%20Academicos/Tai%20I%20-%20M%C3%A1quina%20expressa%20de%20L%C3%ADquidos.pdf",
+    "highlighted": true
+  },
+{
+    "id": "project-12",
+    "image": "/assets/projects/tai2.png",
+    "videoUrl": "",
+    "title": "Tai II - Estudo do movimento da mola em amortecimento",
+    "time": "Projetos Acadêmicos",
+    "description": "Estudo das variáveis envolvidas no movimento da mola em amortecimento, como forças aplicadas, distorção, velocidade.", 
+    "github": "",
+    "website": "https://diegohenriqueferreira.github.io/Trabalhos-Acad-micos/Trabalhos%20Academicos/Tai%20II%20-%20Movimento%20da%20mola%20em%20amortecimento.pdf",
+    "highlighted": true
+  },
+{
+    "id": "project-13",
+    "image": "/assets/projects/tai3.png",
+    "videoUrl": "",
+    "title": "Tai III -  Compactador de latas mecanizado - Parte I",
+    "time": "Projetos Acadêmicos",
+    "description": "Estudo da força necessária para amassar a lata, esforços no redutor, força do motor.", 
+    "github": "",
+    "website": "https://diegohenriqueferreira.github.io/Trabalhos-Acad-micos/Trabalhos%20Academicos/Tai%20III%20-%20%20Compactador%20de%20latas%20mecanizado%20-%20Parte%20I.pdf",
+    "highlighted": true
+  },
+{
+    "id": "project-14",
+    "image": "/assets/projects/tai4.png",
+    "videoUrl": "",
+    "title": "Tai IV - Compactador de latas mecanizado - Parte II",
+    "time": "Projetos Acadêmicos",
+    "description": "Estudo da velocidade e aceleração do pistão, testes das propriedades fisicas dos materiais e dimensionamento do motor .", 
+    "github": "",
+    "website": "https://diegohenriqueferreira.github.io/Trabalhos-Acad-micos/Trabalhos%20Academicos/Tai%20IV%20-%20Compactador%20de%20latas%20mecanizado%20-%20Parte%20II.pdf",
+    "highlighted": true
+  },
+{
+    "id": "project-15",
+    "image": "/assets/projects/tai5.png",
+    "videoUrl": "",
+    "title": "Tai V - Estudo e dimensionamento de uma Tina de mostura",
+    "time": "Projetos Acadêmicos",
+    "description": "Dimensionamento da Tina de mostura, espessura do costado, fonte de calor do sistema e bomba de recirculação.", 
+    "github": "",
+    "website": "https://diegohenriqueferreira.github.io/Trabalhos-Acad-micos/Trabalhos%20Academicos/Tai%20V%20-%20Estudo%20e%20dimensionamento%20de%20uma%20Tina%20de%20mostura.pdf",
+    "highlighted": true
+  },
+{
+    "id": "project-16",
+    "image": "/assets/projects/tai6.png",
+    "videoUrl": "",
+    "title": "Tai VI - Estudo e Dimensionamento de um Trocador de Calor para Nanocervejaria",
+    "time": "Projetos Acadêmicos",
+    "description": "Modelagem do protótipo, definição do método de resfriamento do mosto e dimensionamento do chiller.", 
+    "github": "",
+    "website": "https://diegohenriqueferreira.github.io/Trabalhos-Acad-micos/Trabalhos%20Academicos/Tai%20VI%20-%20Estudo%20e%20Dimensionamento%20de%20um%20Trocador%20de%20Calor%20para%20Nanocervejaria.pdf",
+    "highlighted": true
+  },
+{
+    "id": "project-17",
+    "image": "/assets/projects/tai7.png",
+    "videoUrl": "",
+    "title": "Tai VII - Estudo e dimensionamento de um moinho de martelos - Parte I",
+    "time": "Projetos Acadêmicos",
+    "description": "Definição dos materiais dos martelos, viabilidade econômica, dimensionamento do motor, eixos e rolamentos.", 
+    "github": "",
+    "website": "https://diegohenriqueferreira.github.io/Trabalhos-Acad-micos/Trabalhos%20Academicos/Tai%20VII%20-%20Estudo%20e%20dimensionamento%20de%20um%20moinho%20de%20martelos%20-%20Parte%20I.pdf",
+    "highlighted": true
+  },
+{
+    "id": "project-18",
+    "image": "/assets/projects/tai8.png",
+    "videoUrl": "",
+    "title": "Tai VIII - Estudo e dimensionamento de um moinho de martelos - Parte II",
+    "time": "Projetos Acadêmicos",
+    "description": "Especificação da peneira de grãos, correias, polias e definição da geometria dos martelos.", 
+    "github": "",
+    "website": "https://diegohenriqueferreira.github.io/Trabalhos-Acad-micos/Trabalhos%20Academicos/Tai%20VIII%20-%20Estudo%20e%20dimensionamento%20de%20um%20moinho%20de%20martelos%20-%20Parte%20II.pdf",
+    "highlighted": true
   }
 
 ]
