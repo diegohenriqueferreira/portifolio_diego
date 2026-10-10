@@ -112,6 +112,17 @@
   },
 {
     "id": "project-11",
+    "image": "/assets/projects/tcc.png",
+    "videoUrl": "https://youtu.be/SIulUgrOCGY",
+    "title": "TCC - Desenvolvimento de um programa aplicado às rotinas de manutenção",
+    "time": "Trabalho de Conclusão de Curso",
+    "description": "Software abrangindo ordens de serviço, gestão de ativos, gestão de estoque e indicadores de manutenção.", 
+    "github": "",
+    "website": "https://diegohenriqueferreira.github.io/Trabalhos-Acad-micos/Trabalhos%20Academicos/TCC.pdf",
+    "highlighted": true
+  },
+{
+    "id": "project-12",
     "image": "/assets/projects/tai1.png",
     "videoUrl": "",
     "title": "Tai I - Máquina expressa de Líquidos",
@@ -121,7 +132,7 @@
     "highlighted": true
   },
 {
-    "id": "project-12",
+    "id": "project-13",
     "image": "/assets/projects/tai2.png",
     "videoUrl": "",
     "title": "Tai II - Estudo do movimento da mola em amortecimento",
@@ -132,7 +143,7 @@
     "highlighted": true
   },
 {
-    "id": "project-13",
+    "id": "project-14",
     "image": "/assets/projects/tai3.png",
     "videoUrl": "",
     "title": "Tai III -  Compactador de latas mecanizado - Parte I",
@@ -143,7 +154,7 @@
     "highlighted": true
   },
 {
-    "id": "project-14",
+    "id": "project-15",
     "image": "/assets/projects/tai4.png",
     "videoUrl": "",
     "title": "Tai IV - Compactador de latas mecanizado - Parte II",
@@ -154,7 +165,7 @@
     "highlighted": true
   },
 {
-    "id": "project-15",
+    "id": "project-16",
     "image": "/assets/projects/tai5.png",
     "videoUrl": "",
     "title": "Tai V - Estudo e dimensionamento de uma Tina de mostura",
@@ -165,7 +176,7 @@
     "highlighted": true
   },
 {
-    "id": "project-16",
+    "id": "project-17",
     "image": "/assets/projects/tai6.png",
     "videoUrl": "",
     "title": "Tai VI - Estudo e Dimensionamento de um Trocador de Calor para Nanocervejaria",
@@ -176,7 +187,7 @@
     "highlighted": true
   },
 {
-    "id": "project-17",
+    "id": "project-18",
     "image": "/assets/projects/tai7.png",
     "videoUrl": "",
     "title": "Tai VII - Estudo e dimensionamento de um moinho de martelos - Parte I",
@@ -187,7 +198,7 @@
     "highlighted": true
   },
 {
-    "id": "project-18",
+    "id": "project-19",
     "image": "/assets/projects/tai8.png",
     "videoUrl": "",
     "title": "Tai VIII - Estudo e dimensionamento de um moinho de martelos - Parte II",
@@ -198,4 +209,5 @@
     "highlighted": true
   }
 
+     
 ]
